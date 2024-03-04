@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammed Nizam</h1>
 <h3 align="center">A passionate software developer in the UK</h3>
+
 ---
+
 
 I'm a Software Engineer / Full Stack Dev currently working with Javascript frameworks like ExpressJS, NodeJS & ReactJS. Previously worked on PHP, Python & C#.
 
