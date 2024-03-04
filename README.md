@@ -1,4 +1,4 @@
-#⚡️ Hi, I'm Mohammed Nizam ⚡️
+⚡️ Hi, I'm Mohammed Nizam ⚡️
 ---
 
 I'm a Software Engineer / Full Stack Dev currently working with Javascript frameworks like ExpressJS, NodeJS & ReactJS. Previously worked on PHP, Python & C#.
@@ -8,7 +8,7 @@ I'm a Software Engineer / Full Stack Dev currently working with Javascript frame
 * 🔭 I previously worked at [Wren Kitchens](https://www.wrenkitchens.com/)
 * 🌱 I’m currently working on a social media app targeting minority communities in the UK
 * 💬 Ask me about JavaScript, TypeScript, ReactJS, NodeJS
-* 📫 How to reach me: aswinsanakan@gmail.com, @aswinsanakan
+* 📫 How to reach me: [mohammednizampn@gmail.com](mailto:mohammednizampn@gmail.com)
 * 😄 Pronouns: he/him
 * 🎧 Listening to: Anirudh, Badshah, Pharrell Williams
 * ⚡ Fun fact: I built a **neon** themed portfolio!
