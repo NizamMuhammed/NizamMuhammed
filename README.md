@@ -4,7 +4,8 @@
 ---
 
 
-I'm a Software Engineer / Full Stack Dev currently working with Javascript frameworks like ReactJS, and NodeJS. Previously worked on PHP, Python & C#.
+I'm a Software Engineer / Full Stack Dev currently working with Javascript frameworks like ReactJS, NodeJS and responsive web design. 
+Previously worked on PHP, Python & C#.
 
 * 🔭 I previously worked at [Wren Kitchens](https://www.wrenkitchens.com/)
 * 🌱 I’m currently working on a social media app targeting minority communities with 45000+ members in the UK
